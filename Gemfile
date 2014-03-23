@@ -30,6 +30,8 @@ group :test do
   gem 'rb-notifu', '0.0.4'
   # gem 'win32console'
   gem 'wdm', '0.1.0'
+  # Factory Girl
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 gem 'sass-rails', '4.0.1'
